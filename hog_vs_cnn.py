@@ -11,7 +11,6 @@ parser.add_argument('-w', '--weights', default='mmod_human_face_detector.dat',
 parser.add_argument('-o','--output', help='path to save output image')
 
 args = parser.parse_args()
-print(args.output)
 
 img_name = args.image.split('.')
 
