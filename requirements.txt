@@ -72,4 +72,4 @@ urllib3==1.24.1
 vext==0.7.3
 vext.gi==0.7.0
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
