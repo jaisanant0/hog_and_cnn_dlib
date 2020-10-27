@@ -12,7 +12,7 @@ chardet==3.0.4
 Click==7.0
 cmake==3.13.3
 conda==4.6.4
-cryptography==2.5
+cryptography==3.2
 cycler==0.10.0
 face-recognition==1.2.3
 face-recognition-models==0.3.0
