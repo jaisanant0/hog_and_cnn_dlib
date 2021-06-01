@@ -68,7 +68,7 @@ Theano==1.0.4
 tornado==5.1.1
 traceback2==1.4.0
 unittest2==1.1.0
-urllib3==1.24.1
+urllib3==1.26.5
 vext==0.7.3
 vext.gi==0.7.0
 webencodings==0.5.1
