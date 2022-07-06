@@ -22,7 +22,7 @@ gast==0.2.2
 google-images-download==2.5.0
 grpcio==1.16.0
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.8
 imutils==0.5.2
 Keras==2.2.4
